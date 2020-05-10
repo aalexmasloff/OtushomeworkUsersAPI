@@ -1,0 +1,1 @@
+docker push alexmasloff/usersapi:v1
